@@ -8,6 +8,7 @@
 
 .card {
   border-radius: 15px;
+  max-width: 300px;
 }
 
 @media (max-width: 768px) {
